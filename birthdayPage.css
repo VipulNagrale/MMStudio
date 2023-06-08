@@ -1,0 +1,101 @@
+.first{
+    height: 800px;
+    width: 100%;   
+    background-image:url("https://images.unsplash.com/photo-1516357231954-91487b459602?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=872&q=80");
+    background-size: 100%;
+    background-color: rgba(205, 158, 158, 0.5);
+    background-repeat: no-repeat;
+
+}
+.logo_name{
+    height: 80px;
+    width: 40%;
+  
+ 
+   display: flex;
+ align-items: center;
+ justify-content: center;
+}
+
+.head{
+    display: flex;
+}
+
+.option{
+    height: 80px;
+    width: 100%;   
+   color:black ;
+    display: flex;
+   align-items: center;
+   justify-content: center;
+   
+}
+
+li{
+   display: inline;
+   margin-left: 60px;
+   margin-right: 60px;
+}
+
+a{
+    border: 2px solid black;
+    text-decoration: none;
+    color:black ;
+    padding: 6px;
+}
+
+.pagename{
+    height: 800px;
+    width: 100%;   
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   bottom: 20px;
+   font-size: 6rem;
+   color: aliceblue;
+    
+}
+
+
+
+.scroll-container {
+    background-color: #333;
+    overflow: auto;
+    white-space: nowrap;
+    padding: 10px;
+  }
+  
+  .scroll-container img {
+    padding: 10px;
+    height: 500px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.copyright{
+    height: 80px;
+    background-color: rgba(56, 101, 135, 0.806);
+    display: flex;
+align-items: center;
+justify-content: space-evenly;
+
+}
